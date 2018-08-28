@@ -1,4 +1,4 @@
-Minexcoin Core integration/staging tree
+SuperChain flexible Chain Main code
 =====================================
 
 [![Build Status](https://travis-ci.org/minexcoin/minexcoin.svg?branch=master)](https://travis-ci.org/minexcoin/minexcoin)
@@ -6,26 +6,11 @@ Minexcoin Core integration/staging tree
 [![Github Issues](http://githubbadges.herokuapp.com/minexcoin/minexcoin/issues.svg?style=flat-square)](https://github.com/minexcoin/minexcoin/issues)
 [![Pending Pull-Requests](http://githubbadges.herokuapp.com/minexcoin/minexcoin/pulls.svg?style=flat-square)](https://github.com/minexcoin/minexcoin/pulls)
 
-https://minexcoin.com
+https://www.fiverr.com/ixenox/build-crypto-blockchain-project
 
-What is Minexcoin?
+What is SuperChain
 ----------------
 
-MinexCoin (MNX) is a global payments system based on a low volatility cryptocurrency
-which is a part of Minex ecosystem. Thanks to its stable exchange rate, MinexCoin
-is a reliable means of payment, while controllable growth of coin price makes it an
-attractive means of value storage. 
+it's our reusable Blockchain system , we mainly build on top of it our blockchain apps
 
-For more information read the
-[original whitepaper](https://minexcoin.com/html/download/wpeng.pdf).
 
-Development Process
--------------------
-
-The `master` branch is regularly built and tested, but is not guaranteed to be
-completely stable.
-
-Binaries
--------------------
-
-Linux binary file: http://minexcoin.com/bin/
